@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "ingredients": [
+        "flour",
+        "sugar",
+        "butter",
+        "chocolate",
+        "eggs",
+        "baking powder"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "dessert",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "tomato sauce",
+        "onion",
+        "garlic",
+        "olive oil",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "Caesar dressing",
+        "chicken breast"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "15 minutes"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Curry",
+      "ingredients": [
+        "chicken",
+        "onions",
+        "garlic",
+        "ginger",
+        "curry powder",
+        "coconut milk",
+        "tomato paste"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "50 minutes"
+    },
+    {
+      "id": 5,
+      "name": "Pancakes",
+      "ingredients": [
+        "flour",
+        "milk",
+        "eggs",
+        "sugar",
+        "baking powder",
+        "butter"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 6,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": [
+        "broccoli",
+        "carrots",
+        "bell peppers",
+        "soy sauce",
+        "tofu",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Asian",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 7,
+      "name": "Beef Tacos",
+      "ingredients": [
+        "ground beef",
+        "taco shells",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "sour cream",
+        "salsa"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 8,
+      "name": "Vegetarian Lasagna",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "spinach",
+        "tomato sauce",
+        "mozzarella cheese",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 9,
+      "name": "Apple Pie",
+      "ingredients": [
+        "apples",
+        "flour",
+        "sugar",
+        "butter",
+        "cinnamon",
+        "pie crust"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "dessert",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 10,
+      "name": "Fried Rice",
+      "ingredients": [
+        "rice",
+        "egg",
+        "carrots",
+        "peas",
+        "soy sauce",
+        "green onions",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 11,
+      "name": "Fish Tacos",
+      "ingredients": [
+        "fish fillets",
+        "taco shells",
+        "cabbage",
+        "avocado",
+        "lime",
+        "sour cream",
+        "cilantro"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 12,
+      "name": "Mushroom Risotto",
+      "ingredients": [
+        "arborio rice",
+        "mushrooms",
+        "onions",
+        "garlic",
+        "vegetable broth",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 13,
+      "name": "Grilled Cheese Sandwich",
+      "ingredients": [
+        "bread",
+        "cheese",
+        "butter"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "10 minutes"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Alfredo",
+      "ingredients": [
+        "pasta",
+        "chicken",
+        "parmesan cheese",
+        "cream",
+        "garlic",
+        "butter"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 15,
+      "name": "Tomato Soup",
+      "ingredients": [
+        "tomatoes",
+        "onions",
+        "garlic",
+        "vegetable broth",
+        "cream",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "30 minutes"
+    }
+  ]  

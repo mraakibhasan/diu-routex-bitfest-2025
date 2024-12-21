@@ -1,0 +1,2273 @@
+[
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "ingredients": [
+        "flour",
+        "sugar"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "dessert",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "tomato sauce",
+        "onion",
+        "garlic",
+        "olive oil",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "Caesar dressing",
+        "chicken breast"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "15 minutes"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Curry",
+      "ingredients": [
+        "chicken",
+        "onions",
+        "garlic",
+        "ginger",
+        "curry powder",
+        "coconut milk",
+        "tomato paste"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "50 minutes"
+    },
+    {
+      "id": 5,
+      "name": "Pancakes",
+      "ingredients": [
+        "flour",
+        "milk",
+        "eggs",
+        "sugar",
+        "baking powder",
+        "butter"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 6,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": [
+        "broccoli",
+        "carrots",
+        "bell peppers",
+        "soy sauce",
+        "tofu",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Asian",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 7,
+      "name": "Beef Tacos",
+      "ingredients": [
+        "ground beef",
+        "taco shells",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "sour cream",
+        "salsa"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 8,
+      "name": "Vegetarian Lasagna",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "spinach",
+        "tomato sauce",
+        "mozzarella cheese",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 9,
+      "name": "Apple Pie",
+      "ingredients": [
+        "apples",
+        "flour",
+        "sugar",
+        "butter",
+        "cinnamon",
+        "pie crust"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "dessert",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 10,
+      "name": "Fried Rice",
+      "ingredients": [
+        "rice",
+        "egg",
+        "carrots",
+        "peas",
+        "soy sauce",
+        "green onions",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 11,
+      "name": "Fish Tacos",
+      "ingredients": [
+        "fish fillets",
+        "taco shells",
+        "cabbage",
+        "avocado",
+        "lime",
+        "sour cream",
+        "cilantro"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 12,
+      "name": "Mushroom Risotto",
+      "ingredients": [
+        "arborio rice",
+        "mushrooms",
+        "onions",
+        "garlic",
+        "vegetable broth",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 13,
+      "name": "Grilled Cheese Sandwich",
+      "ingredients": [
+        "bread",
+        "cheese",
+        "butter"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "10 minutes"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Alfredo",
+      "ingredients": [
+        "pasta",
+        "chicken",
+        "parmesan cheese",
+        "cream",
+        "garlic",
+        "butter"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 15,
+      "name": "Tomato Soup",
+      "ingredients": [
+        "tomatoes",
+        "onions",
+        "garlic",
+        "vegetable broth",
+        "cream",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 16,
+      "name": "Beef Wellington",
+      "ingredients": [
+        "beef tenderloin",
+        "puff pastry",
+        "mushrooms",
+        "prosciutto",
+        "egg yolk",
+        "mustard"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 17,
+      "name": "Shrimp Scampi",
+      "ingredients": [
+        "shrimp",
+        "garlic",
+        "butter",
+        "olive oil",
+        "parmesan cheese",
+        "linguine"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 18,
+      "name": "Lamb Chops",
+      "ingredients": [
+        "lamb chops",
+        "garlic",
+        "rosemary",
+        "olive oil",
+        "lemon",
+        "butter"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mediterranean",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 19,
+      "name": "Chicken Parmesan",
+      "ingredients": [
+        "chicken breasts",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "tomato sauce",
+        "breadcrumbs",
+        "egg"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 20,
+      "name": "Pulled Pork Sandwiches",
+      "ingredients": [
+        "pork shoulder",
+        "bbq sauce",
+        "burger buns",
+        "coleslaw",
+        "pickles"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "5 hours"
+    },
+    {
+      "id": 21,
+      "name": "Pad Thai",
+      "ingredients": [
+        "rice noodles",
+        "shrimp",
+        "egg",
+        "peanut butter",
+        "lime",
+        "fish sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Thai",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 22,
+      "name": "Chicken Shawarma",
+      "ingredients": [
+        "chicken thighs",
+        "garlic",
+        "yogurt",
+        "spices",
+        "pita bread",
+        "tomatoes"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 23,
+      "name": "Beef Stir-Fry",
+      "ingredients": [
+        "beef sirloin",
+        "broccoli",
+        "carrots",
+        "soy sauce",
+        "garlic",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 24,
+      "name": "Ratatouille",
+      "ingredients": [
+        "eggplant",
+        "zucchini",
+        "tomatoes",
+        "bell peppers",
+        "onions",
+        "garlic"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 25,
+      "name": "Quiche Lorraine",
+      "ingredients": [
+        "pie crust",
+        "eggs",
+        "cream",
+        "bacon",
+        "cheese",
+        "onions"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 26,
+      "name": "Stuffed Bell Peppers",
+      "ingredients": [
+        "bell peppers",
+        "ground beef",
+        "rice",
+        "tomato sauce",
+        "onion",
+        "cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 27,
+      "name": "Fish and Chips",
+      "ingredients": [
+        "fish fillets",
+        "potatoes",
+        "flour",
+        "beer",
+        "vegetable oil",
+        "salt"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 28,
+      "name": "Fettuccine Alfredo",
+      "ingredients": [
+        "fettuccine",
+        "butter",
+        "parmesan cheese",
+        "cream",
+        "garlic",
+        "parsley"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 29,
+      "name": "Moussaka",
+      "ingredients": [
+        "eggplant",
+        "ground lamb",
+        "tomato sauce",
+        "cheese",
+        "onions",
+        "bechamel sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Greek",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 30,
+      "name": "Tom Yum Soup",
+      "ingredients": [
+        "shrimp",
+        "lemongrass",
+        "lime leaves",
+        "fish sauce",
+        "chilies",
+        "mushrooms"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Thai",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 31,
+      "name": "Beef Empanadas",
+      "ingredients": [
+        "ground beef",
+        "empanada dough",
+        "onions",
+        "garlic",
+        "olives",
+        "egg"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Latin American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 32,
+      "name": "Pork Schnitzel",
+      "ingredients": [
+        "pork cutlets",
+        "breadcrumbs",
+        "eggs",
+        "flour",
+        "lemon",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "German",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 33,
+      "name": "Baked Ziti",
+      "ingredients": [
+        "ziti pasta",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "ground beef"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 34,
+      "name": "Ceviche",
+      "ingredients": [
+        "fish fillets",
+        "lime juice",
+        "onion",
+        "cilantro",
+        "tomato",
+        "avocado"
+      ],
+      "taste_profile": "tangy",
+      "cuisine_type": "Latin American",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 35,
+      "name": "Sushi Rolls",
+      "ingredients": [
+        "sushi rice",
+        "seaweed sheets",
+        "salmon",
+        "avocado",
+        "cucumber",
+        "soy sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 36,
+      "name": "Pulled Chicken Tacos",
+      "ingredients": [
+        "chicken breasts",
+        "taco shells",
+        "avocado",
+        "salsa",
+        "cheese",
+        "lime"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 37,
+      "name": "Chimichurri Steak",
+      "ingredients": [
+        "steak",
+        "parsley",
+        "garlic",
+        "vinegar",
+        "olive oil",
+        "red pepper flakes"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Argentinian",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 38,
+      "name": "Peking Duck",
+      "ingredients": [
+        "duck",
+        "soy sauce",
+        "hoisin sauce",
+        "scallions",
+        "pancakes",
+        "cucumber"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 39,
+      "name": "Ramen",
+      "ingredients": [
+        "ramen noodles",
+        "broth",
+        "egg",
+        "chashu pork",
+        "green onions",
+        "nori"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 40,
+      "name": "Eggplant Parmesan",
+      "ingredients": [
+        "eggplant",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "tomato sauce",
+        "breadcrumbs",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 41,
+      "name": "Maki Rolls",
+      "ingredients": [
+        "sushi rice",
+        "nori sheets",
+        "cucumber",
+        "tuna",
+        "avocado",
+        "sesame seeds"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 42,
+      "name": "Lobster Roll",
+      "ingredients": [
+        "lobster",
+        "butter",
+        "bread rolls",
+        "celery",
+        "mayonnaise",
+        "lemon"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "35 minutes"
+    },
+    {
+      "id": 43,
+      "name": "Falafel",
+      "ingredients": [
+        "chickpeas",
+        "onions",
+        "garlic",
+        "parsley",
+        "cumin",
+        "coriander"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 44,
+      "name": "Croque Monsieur",
+      "ingredients": [
+        "bread",
+        "ham",
+        "cheese",
+        "béchamel sauce",
+        "butter",
+        "mustard"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 45,
+      "name": "Clam Chowder",
+      "ingredients": [
+        "clams",
+        "potatoes",
+        "onions",
+        "celery",
+        "cream",
+        "bacon"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 46,
+      "name": "Chicken Satay",
+      "ingredients": [
+        "chicken breasts",
+        "peanut butter",
+        "soy sauce",
+        "curry powder",
+        "coconut milk",
+        "lime"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Thai",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 47,
+      "name": "Banh Mi",
+      "ingredients": [
+        "baguette",
+        "pork belly",
+        "pickled carrots",
+        "cucumbers",
+        "cilantro",
+        "mayonnaise"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Vietnamese",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 48,
+      "name": "Focaccia",
+      "ingredients": [
+        "flour",
+        "olive oil",
+        "yeast",
+        "rosemary",
+        "garlic",
+        "salt"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 49,
+      "name": "Minestrone Soup",
+      "ingredients": [
+        "vegetable broth",
+        "pasta",
+        "tomatoes",
+        "carrots",
+        "celery",
+        "beans"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 50,
+      "name": "Pavlova",
+      "ingredients": [
+        "egg whites",
+        "sugar",
+        "vanilla",
+        "kiwi",
+        "berries",
+        "whipped cream"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Australian/New Zealand",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 51,
+      "name": "Peking Duck",
+      "ingredients": [
+        "duck",
+        "soy sauce",
+        "hoisin sauce",
+        "scallions",
+        "pancakes",
+        "cucumber"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 52,
+      "name": "Samosas",
+      "ingredients": [
+        "potatoes",
+        "peas",
+        "onions",
+        "garlic",
+        "cumin",
+        "coriander",
+        "phyllo dough"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 53,
+      "name": "Bulgur Wheat Salad",
+      "ingredients": [
+        "bulgur wheat",
+        "tomatoes",
+        "cucumbers",
+        "parsley",
+        "lemon",
+        "olive oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 54,
+      "name": "Grilled Shrimp Skewers",
+      "ingredients": [
+        "shrimp",
+        "olive oil",
+        "garlic",
+        "lemon",
+        "chili flakes",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mediterranean",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 55,
+      "name": "Lamb Kofta",
+      "ingredients": [
+        "ground lamb",
+        "onions",
+        "garlic",
+        "parsley",
+        "cumin",
+        "coriander",
+        "cinnamon"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 56,
+      "name": "Pasta Carbonara",
+      "ingredients": [
+        "spaghetti",
+        "egg yolks",
+        "pancetta",
+        "parmesan cheese",
+        "black pepper",
+        "garlic"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 57,
+      "name": "Chicken Piccata",
+      "ingredients": [
+        "chicken breasts",
+        "lemon",
+        "capers",
+        "parsley",
+        "butter",
+        "white wine"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 58,
+      "name": "Stuffed Bell Peppers",
+      "ingredients": [
+        "bell peppers",
+        "ground beef",
+        "rice",
+        "tomato sauce",
+        "cheese",
+        "onions"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 59,
+      "name": "Lemon Meringue Pie",
+      "ingredients": [
+        "lemons",
+        "egg yolks",
+        "sugar",
+        "butter",
+        "meringue",
+        "pie crust"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 60,
+      "name": "Vegetable Samosa",
+      "ingredients": [
+        "potatoes",
+        "peas",
+        "carrots",
+        "onions",
+        "cumin",
+        "coriander",
+        "garam masala"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 61,
+      "name": "Fish and Chips",
+      "ingredients": [
+        "white fish fillets",
+        "potatoes",
+        "flour",
+        "beer",
+        "salt",
+        "vinegar"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 62,
+      "name": "Tom Yum Soup",
+      "ingredients": [
+        "lemongrass",
+        "lime leaves",
+        "galangal",
+        "chili",
+        "fish sauce",
+        "shrimp"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Thai",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 63,
+      "name": "Chicken Shawarma",
+      "ingredients": [
+        "chicken thighs",
+        "garlic",
+        "yogurt",
+        "lemon juice",
+        "cumin",
+        "paprika"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 64,
+      "name": "Steak Frites",
+      "ingredients": [
+        "steak",
+        "fries",
+        "garlic",
+        "rosemary",
+        "butter",
+        "olive oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 65,
+      "name": "Baklava",
+      "ingredients": [
+        "phyllo dough",
+        "pistachios",
+        "walnuts",
+        "sugar",
+        "honey",
+        "butter"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 66,
+      "name": "Pulled Pork Sandwich",
+      "ingredients": [
+        "pork shoulder",
+        "bbq sauce",
+        "buns",
+        "coleslaw",
+        "pickles"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "3 hours"
+    },
+    {
+      "id": 67,
+      "name": "Chili con Carne",
+      "ingredients": [
+        "ground beef",
+        "tomato paste",
+        "kidney beans",
+        "onions",
+        "garlic",
+        "chili powder"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 68,
+      "name": "Pav Bhaji",
+      "ingredients": [
+        "potatoes",
+        "tomatoes",
+        "onions",
+        "bell peppers",
+        "garlic",
+        "butter"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 69,
+      "name": "Quiche Lorraine",
+      "ingredients": [
+        "pie crust",
+        "bacon",
+        "cheese",
+        "eggs",
+        "cream",
+        "onions"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "French",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 70,
+      "name": "Bangers and Mash",
+      "ingredients": [
+        "sausages",
+        "mashed potatoes",
+        "onions",
+        "gravy",
+        "butter",
+        "peas"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 71,
+      "name": "Ratatouille",
+      "ingredients": [
+        "eggplant",
+        "zucchini",
+        "tomatoes",
+        "bell peppers",
+        "onions",
+        "garlic",
+        "herbs de Provence"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 72,
+      "name": "Beef Wellington",
+      "ingredients": [
+        "beef tenderloin",
+        "puff pastry",
+        "mushrooms",
+        "prosciutto",
+        "egg yolk",
+        "mustard"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 73,
+      "name": "Kebabs",
+      "ingredients": [
+        "lamb",
+        "onions",
+        "bell peppers",
+        "tomatoes",
+        "garlic",
+        "olive oil",
+        "cumin"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 74,
+      "name": "Eggplant Parmesan",
+      "ingredients": [
+        "eggplant",
+        "tomato sauce",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "bread crumbs",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 75,
+      "name": "Tiramisu",
+      "ingredients": [
+        "ladyfingers",
+        "mascarpone cheese",
+        "coffee",
+        "cocoa powder",
+        "eggs",
+        "sugar"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 76,
+      "name": "Fettuccine Alfredo",
+      "ingredients": [
+        "fettuccine pasta",
+        "cream",
+        "parmesan cheese",
+        "butter",
+        "garlic",
+        "parsley"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 77,
+      "name": "Clam Chowder",
+      "ingredients": [
+        "clams",
+        "potatoes",
+        "onions",
+        "celery",
+        "cream",
+        "butter"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 78,
+      "name": "Pork Schnitzel",
+      "ingredients": [
+        "pork chops",
+        "bread crumbs",
+        "flour",
+        "eggs",
+        "lemon",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "German",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 79,
+      "name": "Baked Ziti",
+      "ingredients": [
+        "ziti pasta",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "ground beef"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 80,
+      "name": "Crab Cakes",
+      "ingredients": [
+        "crab meat",
+        "bread crumbs",
+        "mayonnaise",
+        "mustard",
+        "parsley",
+        "egg"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 81,
+      "name": "Beef Empanadas",
+      "ingredients": [
+        "ground beef",
+        "onions",
+        "garlic",
+        "olives",
+        "hard-boiled eggs",
+        "empanada dough"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Latin American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 82,
+      "name": "Spaghetti Aglio e Olio",
+      "ingredients": [
+        "spaghetti",
+        "garlic",
+        "olive oil",
+        "red pepper flakes",
+        "parsley",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 83,
+      "name": "Biryani",
+      "ingredients": [
+        "chicken",
+        "basmati rice",
+        "onions",
+        "yogurt",
+        "garam masala",
+        "coriander",
+        "mint"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 84,
+      "name": "Shakshuka",
+      "ingredients": [
+        "eggs",
+        "tomatoes",
+        "onions",
+        "garlic",
+        "cumin",
+        "paprika",
+        "chili"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 85,
+      "name": "Fried Chicken",
+      "ingredients": [
+        "chicken",
+        "flour",
+        "buttermilk",
+        "paprika",
+        "garlic powder",
+        "onion powder"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 86,
+      "name": "Pad Thai",
+      "ingredients": [
+        "rice noodles",
+        "shrimp",
+        "tofu",
+        "egg",
+        "peanuts",
+        "lime",
+        "fish sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Thai",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 87,
+      "name": "Prawn Masala",
+      "ingredients": [
+        "prawns",
+        "onions",
+        "tomato",
+        "garlic",
+        "ginger",
+        "garam masala"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 88,
+      "name": "Moussaka",
+      "ingredients": [
+        "eggplant",
+        "ground lamb",
+        "tomato paste",
+        "béchamel sauce",
+        "cheese",
+        "onions"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Greek",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 89,
+      "name": "Churros",
+      "ingredients": [
+        "flour",
+        "butter",
+        "sugar",
+        "cinnamon",
+        "eggs",
+        "water"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Spanish",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 90,
+      "name": "Ceviche",
+      "ingredients": [
+        "fish",
+        "lime",
+        "onions",
+        "cilantro",
+        "tomato",
+        "avocado"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Latin American",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 91,
+      "name": "Lamb Rogan Josh",
+      "ingredients": [
+        "lamb",
+        "yogurt",
+        "garam masala",
+        "ginger",
+        "garlic",
+        "onions",
+        "tomato paste"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Indian",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 92,
+      "name": "Baked Salmon",
+      "ingredients": [
+        "salmon",
+        "lemon",
+        "garlic",
+        "olive oil",
+        "rosemary",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 93,
+      "name": "Pineapple Fried Rice",
+      "ingredients": [
+        "pineapple",
+        "rice",
+        "shrimp",
+        "carrots",
+        "peas",
+        "green onions",
+        "soy sauce"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Thai",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 94,
+      "name": "Lentil Soup",
+      "ingredients": [
+        "lentils",
+        "onions",
+        "carrots",
+        "celery",
+        "tomatoes",
+        "garlic",
+        "vegetable broth"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 95,
+      "name": "Vegan Burritos",
+      "ingredients": [
+        "tortillas",
+        "black beans",
+        "avocado",
+        "rice",
+        "salsa",
+        "corn",
+        "lettuce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "id": 96,
+      "name": "Sweet and Sour Pork",
+      "ingredients": [
+        "pork",
+        "pineapple",
+        "bell peppers",
+        "onions",
+        "vinegar",
+        "sugar",
+        "soy sauce"
+      ],
+      "taste_profile": "sweet and sour",
+      "cuisine_type": "Chinese",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 97,
+      "name": "Banoffee Pie",
+      "ingredients": [
+        "bananas",
+        "caramel",
+        "whipped cream",
+        "biscuits",
+        "butter",
+        "chocolate"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "British",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 98,
+      "name": "Chicken Shawarma",
+      "ingredients": [
+        "chicken",
+        "garlic",
+        "yogurt",
+        "cumin",
+        "paprika",
+        "lemon",
+        "cucumber"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 99,
+      "name": "Carrot Cake",
+      "ingredients": [
+        "carrots",
+        "flour",
+        "sugar",
+        "eggs",
+        "cream cheese",
+        "walnuts",
+        "cinnamon"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 100,
+      "name": "Shrimp Scampi",
+      "ingredients": [
+        "shrimp",
+        "garlic",
+        "butter",
+        "lemon",
+        "parsley",
+        "spaghetti",
+        "white wine"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 101,
+      "name": "Mango Lassi",
+      "ingredients": [
+        "mango",
+        "yogurt",
+        "milk",
+        "honey",
+        "cardamom"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Indian",
+      "preparation_time": "10 minutes"
+    },
+    {
+      "id": 102,
+      "name": "Chili Con Carne",
+      "ingredients": [
+        "ground beef",
+        "beans",
+        "tomatoes",
+        "onions",
+        "garlic",
+        "chili powder",
+        "cumin"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Mexican",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 103,
+      "name": "Grilled Shrimp Skewers",
+      "ingredients": [
+        "shrimp",
+        "garlic",
+        "olive oil",
+        "lemon",
+        "parsley",
+        "paprika"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "American",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 104,
+      "name": "Apple Crisp",
+      "ingredients": [
+        "apples",
+        "flour",
+        "sugar",
+        "butter",
+        "oats",
+        "cinnamon"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 105,
+      "name": "Sushi Rolls",
+      "ingredients": [
+        "sushi rice",
+        "nori",
+        "salmon",
+        "avocado",
+        "cucumber",
+        "soy sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 106,
+      "name": "Coconut Curry Soup",
+      "ingredients": [
+        "coconut milk",
+        "chicken",
+        "carrots",
+        "onions",
+        "ginger",
+        "curry powder"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Thai",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 107,
+      "name": "Pasta Primavera",
+      "ingredients": [
+        "pasta",
+        "zucchini",
+        "tomatoes",
+        "bell peppers",
+        "garlic",
+        "olive oil",
+        "parmesan cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 108,
+      "name": "Chocolate Mousse",
+      "ingredients": [
+        "chocolate",
+        "cream",
+        "sugar",
+        "eggs",
+        "vanilla"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "French",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 109,
+      "name": "Tuna Poke Bowl",
+      "ingredients": [
+        "tuna",
+        "avocado",
+        "rice",
+        "cucumber",
+        "soy sauce",
+        "sesame oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Hawaiian",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 110,
+      "name": "Baked Macaroni and Cheese",
+      "ingredients": [
+        "pasta",
+        "cheddar cheese",
+        "milk",
+        "butter",
+        "flour",
+        "bread crumbs"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 111,
+      "name": "Beef Wellington",
+      "ingredients": [
+        "beef tenderloin",
+        "puff pastry",
+        "mushrooms",
+        "prosciutto",
+        "egg yolk",
+        "mustard"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "British",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 112,
+      "name": "Churros",
+      "ingredients": [
+        "flour",
+        "sugar",
+        "cinnamon",
+        "eggs",
+        "butter",
+        "vanilla extract"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Spanish",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 113,
+      "name": "Buffalo Wings",
+      "ingredients": [
+        "chicken wings",
+        "hot sauce",
+        "butter",
+        "garlic powder",
+        "celery",
+        "blue cheese dressing"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "American",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 114,
+      "name": "Banh Mi",
+      "ingredients": [
+        "baguette",
+        "pork",
+        "pickled carrots",
+        "cilantro",
+        "cucumber",
+        "jalapenos",
+        "mayonnaise"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Vietnamese",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 115,
+      "name": "Cinnamon Rolls",
+      "ingredients": [
+        "flour",
+        "yeast",
+        "cinnamon",
+        "sugar",
+        "butter",
+        "cream cheese"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 116,
+      "name": "Pork Schnitzel",
+      "ingredients": [
+        "pork",
+        "bread crumbs",
+        "egg",
+        "flour",
+        "lemon",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "German",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 117,
+      "name": "Lemon Meringue Pie",
+      "ingredients": [
+        "lemons",
+        "sugar",
+        "butter",
+        "eggs",
+        "meringue",
+        "pie crust"
+      ],
+      "taste_profile": "sweet and tangy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 118,
+      "name": "Eggplant Parmesan",
+      "ingredients": [
+        "eggplant",
+        "tomato sauce",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "bread crumbs",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 119,
+      "name": "Korean BBQ Ribs",
+      "ingredients": [
+        "pork ribs",
+        "soy sauce",
+        "brown sugar",
+        "garlic",
+        "ginger",
+        "sesame oil",
+        "gochujang"
+      ],
+      "taste_profile": "savory and sweet",
+      "cuisine_type": "Korean",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 120,
+      "name": "Poke Bowl",
+      "ingredients": [
+        "tuna",
+        "avocado",
+        "edamame",
+        "cucumber",
+        "seaweed",
+        "soy sauce",
+        "sesame seeds"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Hawaiian",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 121,
+      "name": "Chocolate Lava Cake",
+      "ingredients": [
+        "dark chocolate",
+        "butter",
+        "eggs",
+        "sugar",
+        "flour",
+        "vanilla"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "French",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 122,
+      "name": "Samosas",
+      "ingredients": [
+        "potatoes",
+        "peas",
+        "onions",
+        "garam masala",
+        "coriander",
+        "cumin",
+        "flour"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Indian",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 123,
+      "name": "Spicy Tuna Rolls",
+      "ingredients": [
+        "tuna",
+        "cucumber",
+        "avocado",
+        "rice",
+        "nori",
+        "sriracha",
+        "soy sauce"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "Japanese",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 124,
+      "name": "Guacamole",
+      "ingredients": [
+        "avocados",
+        "lime",
+        "cilantro",
+        "onions",
+        "tomatoes",
+        "jalapenos"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": "10 minutes"
+    },
+    {
+      "id": 125,
+      "name": "Ratatouille",
+      "ingredients": [
+        "zucchini",
+        "eggplant",
+        "tomatoes",
+        "onions",
+        "garlic",
+        "olive oil",
+        "basil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "French",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 126,
+      "name": "Paella",
+      "ingredients": [
+        "rice",
+        "shrimp",
+        "chicken",
+        "peas",
+        "bell peppers",
+        "saffron",
+        "tomatoes"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Spanish",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 127,
+      "name": "Baked Ziti",
+      "ingredients": [
+        "pasta",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "ground beef"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "Italian",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 128,
+      "name": "Lamb Kebabs",
+      "ingredients": [
+        "lamb",
+        "garlic",
+        "yogurt",
+        "mint",
+        "onions",
+        "lemon"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 129,
+      "name": "Pavlova",
+      "ingredients": [
+        "egg whites",
+        "sugar",
+        "vanilla",
+        "cornstarch",
+        "cream",
+        "fruit"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Australian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 130,
+      "name": "Moussaka",
+      "ingredients": [
+        "eggplant",
+        "ground beef",
+        "tomato sauce",
+        "béchamel sauce",
+        "parmesan cheese",
+        "onions"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Greek",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 131,
+      "name": "Pho",
+      "ingredients": [
+        "beef",
+        "rice noodles",
+        "onions",
+        "ginger",
+        "cilantro",
+        "lime",
+        "fish sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Vietnamese",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 132,
+      "name": "Tiramisu",
+      "ingredients": [
+        "mascarpone cheese",
+        "coffee",
+        "ladyfingers",
+        "cocoa powder",
+        "eggs",
+        "sugar"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Italian",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 133,
+      "name": "Bulgur Wheat Salad",
+      "ingredients": [
+        "bulgur wheat",
+        "tomatoes",
+        "cucumber",
+        "onions",
+        "parsley",
+        "lemon",
+        "olive oil"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 134,
+      "name": "Ceviche",
+      "ingredients": [
+        "fish",
+        "lime juice",
+        "onions",
+        "cilantro",
+        "tomatoes",
+        "avocado"
+      ],
+      "taste_profile": "tangy",
+      "cuisine_type": "Latin American",
+      "preparation_time": "15 minutes"
+    },
+    {
+      "id": 135,
+      "name": "Baked Brie",
+      "ingredients": [
+        "brie cheese",
+        "puff pastry",
+        "honey",
+        "rosemary",
+        "cranberries"
+      ],
+      "taste_profile": "savory and sweet",
+      "cuisine_type": "French",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 136,
+      "name": "Panzanella Salad",
+      "ingredients": [
+        "bread",
+        "tomatoes",
+        "cucumbers",
+        "onions",
+        "basil",
+        "olive oil",
+        "vinegar"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "id": 137,
+      "name": "Frittata",
+      "ingredients": [
+        "eggs",
+        "potatoes",
+        "onions",
+        "spinach",
+        "cheese",
+        "bacon"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 138,
+      "name": "Baklava",
+      "ingredients": [
+        "phyllo dough",
+        "walnuts",
+        "honey",
+        "cinnamon",
+        "butter"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 139,
+      "name": "Shakshuka",
+      "ingredients": [
+        "eggs",
+        "tomatoes",
+        "onions",
+        "garlic",
+        "cumin",
+        "coriander",
+        "parsley"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 140,
+      "name": "Ramen",
+      "ingredients": [
+        "ramen noodles",
+        "broth",
+        "chashu pork",
+        "egg",
+        "scallions",
+        "seaweed"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 141,
+      "name": "Sushi Rolls",
+      "ingredients": [
+        "nori",
+        "rice",
+        "avocado",
+        "salmon",
+        "cucumber",
+        "soy sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Japanese",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "id": 142,
+      "name": "Crispy Duck",
+      "ingredients": [
+        "duck",
+        "five-spice powder",
+        "honey",
+        "soy sauce",
+        "garlic",
+        "ginger"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Chinese",
+      "preparation_time": "2 hours"
+    },
+    {
+      "id": 143,
+      "name": "Hummus",
+      "ingredients": [
+        "chickpeas",
+        "tahini",
+        "lemon",
+        "garlic",
+        "olive oil",
+        "cumin"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": "15 minutes"
+    },
+    {
+      "id": 144,
+      "name": "Mango Sticky Rice",
+      "ingredients": [
+        "sticky rice",
+        "mango",
+        "coconut milk",
+        "sugar",
+        "sesame seeds"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "Thai",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "id": 145,
+      "name": "Goulash",
+      "ingredients": [
+        "beef",
+        "paprika",
+        "onions",
+        "tomatoes",
+        "garlic",
+        "potatoes"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Hungarian",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 146,
+      "name": "Crispy Spring Rolls",
+      "ingredients": [
+        "rice paper",
+        "shrimp",
+        "carrots",
+        "lettuce",
+        "cucumber",
+        "mint",
+        "peanut sauce"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Vietnamese",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 147,
+      "name": "Coconut Macaroons",
+      "ingredients": [
+        "coconut flakes",
+        "sugar",
+        "egg whites",
+        "vanilla"
+      ],
+      "taste_profile": "sweet",
+      "cuisine_type": "American",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "id": 148,
+      "name": "Moussaka",
+      "ingredients": [
+        "eggplant",
+        "ground lamb",
+        "onions",
+        "tomatoes",
+        "béchamel sauce",
+        "cheese"
+      ],
+      "taste_profile": "savory",
+      "cuisine_type": "Greek",
+      "preparation_time": "1.5 hours"
+    },
+    {
+      "id": 149,
+      "name": "Jambalaya",
+      "ingredients": [
+        "shrimp",
+        "sausage",
+        "chicken",
+        "rice",
+        "bell peppers",
+        "onions",
+        "garlic",
+        "tomato paste"
+      ],
+      "taste_profile": "spicy",
+      "cuisine_type": "American",
+      "preparation_time": "1 hour"
+    },
+    {
+      "id": 150,
+      "name": "Clam Chowder",
+      "ingredients": [
+        "clams",
+        "potatoes",
+        "onions",
+        "celery",
+        "cream",
+        "bacon"
+      ],
+      "taste_profile": "creamy",
+      "cuisine_type": "American",
+      "preparation_time": "45 minutes"
+    }
+
+  ]  
