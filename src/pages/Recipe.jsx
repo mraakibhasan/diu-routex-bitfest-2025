@@ -105,7 +105,7 @@ const RecipeSuggestion = () => {
 
         {aiSuggestion && !isPending && !isError && (
           <div className="bg-yellow-100 p-4 rounded-md mb-4">
-            <h3 className="font-semibold">AI Suggestion:</h3>
+            <h3 className="font-semibold">Suggestion:</h3>
             <p>{aiSuggestion}</p>
           </div>
         )}
