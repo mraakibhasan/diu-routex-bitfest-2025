@@ -249,10 +249,6 @@ This project integrates the **T5-small model** from Hugging Face to generate rec
 
 5. Access the API at `http://127.0.0.1:8000`.
 
-## Hosting the Model
-
-The AI model (T5-small) is hosted on [Hugging Face](https://huggingface.co/) for online inference. You can also train and deploy the model locally using Git LFS if Hugging Face hosting is not available.
-
 ## Future Improvements
 
 While the current system provides a solid foundation, there are a few enhancements that could improve functionality, scalability, and user experience:
